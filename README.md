@@ -11,6 +11,6 @@ More importantly we will observe how has the government responded to these HIV/A
 
 # Notes
 - final.ipynb is the final notebook. Please unzip to view maps/analysis.
-- Would not recommend running this notebook as it does take quite a while.- 
+- Would not recommend running this notebook as it does take quite a while.
 - If the maps do not load in final.ipynb, there are html files of the maps under the same name and should be downloadable and viewable.
 
